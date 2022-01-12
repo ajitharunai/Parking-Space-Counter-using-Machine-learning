@@ -27,7 +27,8 @@
 </p>
 </p>
 
-<p>project demo 1 <a href="https://youtu.be/2jM-c89ZtAs">Parking-Space-Counter</a>.</p>
+<p>project demo 1 <a href="https://youtu.be/2jM-c89ZtAs/">Parking-Space-Counter</a>.</p>
+
 
 
 <p align="center">
